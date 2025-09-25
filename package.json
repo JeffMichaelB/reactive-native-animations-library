@@ -1,72 +1,72 @@
 {
-  "name": "reactive-native-animations-library",
-  "version": "1.0.0",
-  "description": "Comprehensive React Native animation components from 24 popular apps",
-  "main": "index.js",
-  "scripts": {
-    "lint": "echo 'Linting components...'",
-    "test": "echo 'Testing components...'",
-    "docs": "echo 'Generating documentation...'",
-    "catalog": "echo 'Component catalog available in /catalog'"
-  },
-  "keywords": [
-    "react-native",
-    "animations",
-    "components",
-    "ui",
-    "instagram",
-    "slack",
-    "colorsapp",
-    "shopify",
-    "discord",
-    "whatsapp",
-    "pinterest",
-    "alma",
-    "apple-books",
-    "chatgpt",
-    "gmail",
-    "github",
-    "linkedin",
-    "threads",
-    "x-twitter",
-    "viber",
-    "linear",
-    "raycast",
-    "opal",
-    "fuse",
-    "canva",
-    "grok",
-    "chrome",
-    "showcase",
-    "queue",
-    "luma",
-    "adidas",
-    "apple-invites"
-  ],
-  "author": "JeffMichaelB",
-  "license": "MIT",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/JeffMichaelB/reactive-native-animations-library.git"
-  },
-  "homepage": "https://github.com/JeffMichaelB/reactive-native-animations-library#readme",
-  "bugs": {
-    "url": "https://github.com/JeffMichaelB/reactive-native-animations-library/issues"
-  },
-  "peerDependencies": {
-    "react": ">=18.0.0",
-    "react-native": ">=0.70.0",
-    "react-native-reanimated": "^3.18.0",
-    "react-native-gesture-handler": "^2.24.0",
-    "@shopify/react-native-skia": "^2.0.0",
-    "expo-blur": "^14.1.4",
-    "expo-haptics": "^14.1.4",
-    "expo-image": "^2.3.0",
-    "expo-linear-gradient": "^14.1.4"
-  },
-  "devDependencies": {
-    "@types/react": "^18.0.0",
-    "@types/react-native": "^0.72.0",
-    "typescript": "^5.0.0"
-  }
+    "name": "reactive-native-animations-library",
+    "version": "1.0.0",
+    "description": "Comprehensive React Native animation components from 24 popular apps",
+    "main": "index.js",
+    "scripts": {
+        "lint": "echo 'Linting components...'",
+        "test": "echo 'Testing components...'",
+        "docs": "echo 'Generating documentation...'",
+        "catalog": "echo 'Component catalog available in /catalog'"
+    },
+    "keywords": [
+        "react-native",
+        "animations",
+        "components",
+        "ui",
+        "instagram",
+        "slack",
+        "colorsapp",
+        "shopify",
+        "discord",
+        "whatsapp",
+        "pinterest",
+        "alma",
+        "apple-books",
+        "chatgpt",
+        "gmail",
+        "github",
+        "linkedin",
+        "threads",
+        "x-twitter",
+        "viber",
+        "linear",
+        "raycast",
+        "opal",
+        "fuse",
+        "canva",
+        "grok",
+        "chrome",
+        "showcase",
+        "queue",
+        "luma",
+        "adidas",
+        "apple-invites"
+    ],
+    "author": "JeffMichaelB",
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/JeffMichaelB/reactive-native-animations-library.git"
+    },
+    "homepage": "https://github.com/JeffMichaelB/reactive-native-animations-library#readme",
+    "bugs": {
+        "url": "https://github.com/JeffMichaelB/reactive-native-animations-library/issues"
+    },
+    "peerDependencies": {
+        "react": ">=18.0.0",
+        "react-native": ">=0.70.0",
+        "react-native-reanimated": "^3.18.0",
+        "react-native-gesture-handler": "^2.24.0",
+        "@shopify/react-native-skia": "^2.0.0",
+        "expo-blur": "^14.1.4",
+        "expo-haptics": "^14.1.4",
+        "expo-image": "^2.3.0",
+        "expo-linear-gradient": "^14.1.4"
+    },
+    "devDependencies": {
+        "@types/react": "^18.0.0",
+        "@types/react-native": "^0.72.0",
+        "typescript": "^5.0.0"
+    }
 }
