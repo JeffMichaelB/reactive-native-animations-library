@@ -80,6 +80,7 @@ function MyApp() {
 - [Complete Component Catalog](./docs/COMPONENT_CATALOG.md)
 - [Installation Guide](./docs/INSTALLATION_GUIDE.md)
 - [Coding Agent Instructions](./docs/CODING_AGENT_INSTRUCTIONS.md)
+- [Workflow Guide](./docs/WORKFLOW_GUIDE.md) - How to use this library to build apps
 - [Usage Examples](./examples/)
 
 ## 🎯 Component Categories
